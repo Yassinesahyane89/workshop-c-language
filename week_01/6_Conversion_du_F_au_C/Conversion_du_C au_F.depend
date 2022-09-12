@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662546700 source:c:\users\youcode\desktop\c\conversion_du_c au_f\main.c
+	<stdio.h>
+	<stdlib.h>
+

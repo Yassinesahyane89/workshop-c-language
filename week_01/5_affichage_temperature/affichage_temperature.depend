@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662556571 source:c:\users\youcode\desktop\c\workshop-c-language\week_01\affichage_temperature\main.c
+	<stdio.h>
+	<string.h>
+

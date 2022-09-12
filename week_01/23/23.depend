@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662712408 source:c:\users\youcode\desktop\c\workshop-c-language\week_01\23\main.c
+	<stdio.h>
+	<stdlib.h>
+

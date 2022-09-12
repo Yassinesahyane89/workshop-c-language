@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662632596 source:c:\users\youcode\desktop\c\workshop-c-language\week_01\17_equation_deuxieme_degre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
